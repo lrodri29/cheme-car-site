@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://chemecar.engineering.cornell.edu/index.html</loc>
+		<priority>1.0</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://chemecar.engineering.cornell.edu/about.html</loc>
+		<priority>0.8</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://chemecar.engineering.cornell.edu/subteams.html</loc>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://chemecar.engineering.cornell.edu/subteam-leader-bios.html</loc>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://chemecar.engineering.cornell.edu/recruitment.html</loc>
+		<priority>0.7</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://chemecar.engineering.cornell.edu/sponsors.html</loc>
+		<priority>0.6</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+</urlset>
