@@ -1,7 +1,7 @@
-#Repo for development of https://chemecar.engineering.cornell.edu/
+# Repo for development of https://chemecar.engineering.cornell.edu/
 
-##Site based on Bootstrap template as documented below.
-##All Images are 10 inches by 7 inches to maintain the great layout we have achieved.
+- Site based on Bootstrap template as documented below.
+- All Images are 10 inches by 7 inches to maintain the great layout we have achieved.
 
 
 [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
